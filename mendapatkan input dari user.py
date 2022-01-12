@@ -1,4 +1,4 @@
-#2. program mendapatkan input dari user
+#2. program mendapatkan input dari user tanpa pengamanan
 				
 import subprocess								#0. Modul yang dapat digunakan untuk menjalankan perintah shell yang dapat dieksekusi dengan Python
 
